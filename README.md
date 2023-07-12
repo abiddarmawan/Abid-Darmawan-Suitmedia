@@ -1,7 +1,7 @@
 # Abid-Darmawan-Suitmedia
 
-https://drive.google.com/file/d/1rJ99GWUFVot-RDIrZFebUW-QhOvGCWIQ/view?usp=sharing
-[Download Apk Saya disini....](https://drive.google.com/file/d/1rJ99GWUFVot-RDIrZFebUW-QhOvGCWIQ/view?usp=sharing)
+
+[Download Apk Saya disini](https://drive.google.com/file/d/1rJ99GWUFVot-RDIrZFebUW-QhOvGCWIQ/view?usp=sharing)
 
 <p float="left">
     <img src="https://raw.githubusercontent.com/abiddarmawan/Abid-Darmawan-Suitmedia/master/Foto%20Aplikasi/1.jpg" alt="Foto 1" width="200" />
